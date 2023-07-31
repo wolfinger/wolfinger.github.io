@@ -16,7 +16,7 @@ Over the past three years I’ve thought deeply about what I want out of my care
 <br>
 While making a switch this far into a career is not the norm, it is not unprecedented. In addition to discussions with several people who have done just this, I also found some great resources online  (e.g., [here](https://news.ycombinator.com/item?id=26383366) and [here](https://rodrigohgpontes.github.io/)).<br>
 <br>
-No doubt there will be a learning curve, but I have spent my entire life intrinsically driven by learning. I recently became an [AWS Certified Developer](https://www.credly.com/badges/cd67ac66-dac2-4418-97c5-627cbf147a39), have some relevant past work experience, and hopefully you see signal from me spending my free time on software engineering (some examples [here](relevant.experience.md) and my resume [here](/raw/resume.pdf)).<br>
+No doubt there will be a learning curve, but I have spent my entire life intrinsically driven by learning. I recently became an [AWS Certified Developer](https://www.credly.com/badges/cd67ac66-dac2-4418-97c5-627cbf147a39), have some relevant past work experience, and hopefully you see signal from me spending my free time on software engineering (some examples [here](relevant.experience.md) and my resume [here](resume.pdf)).<br>
 <br>
 I will work hard, learn quickly, collaborate well, and become a meaningful contributor that brings enthusiasm to the team. I look forward to chatting.<br>
 <br>
