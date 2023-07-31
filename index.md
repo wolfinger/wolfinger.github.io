@@ -1,5 +1,4 @@
 ---
-layout: home
-title: {{ site.description }}
+layout: default
 ---
-# hello!
+# Hello!
