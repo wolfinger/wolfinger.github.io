@@ -8,6 +8,8 @@ layout: default
 #### [AWS Certified Developer (Feb 2023)](https://www.credly.com/badges/cd67ac66-dac2-4418-97c5-627cbf147a39)
 
 #### [Fundamentals of Backend Engineering (Jul 2023)](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols)
+
+#### [Fundamentals of Database Engineering (Aug 2023)](https://www.udemy.com/course/database-engines-crash-course)
 <br>
 
 ### Personal Projects
