@@ -10,6 +10,8 @@ layout: default
 #### [Fundamentals of Backend Engineering (Jul 2023)](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols)
 
 #### [Fundamentals of Database Engineering (Aug 2023)](https://www.udemy.com/course/database-engines-crash-course)
+
+#### [Certified Kubernetes Application Developer (expected Oct 2023)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad)
 <br>
 
 ### Personal Projects
